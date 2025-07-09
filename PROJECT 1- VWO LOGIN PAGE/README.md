@@ -91,5 +91,4 @@ Portfolio: [portfolio-muhammad-waqar-ajmal.netlify.app](https://portfolio-muhamm
 
 ---
 
-> 🔎 Ready for internship or junior QA opportunities.  
 > ⭐ GitHub stars and feedback are always appreciated!
